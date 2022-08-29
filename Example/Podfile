@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftyDependency_Tests' do
+  pod 'SwiftyDependency', :path => '../'
+  
+  
+end
