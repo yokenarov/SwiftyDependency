@@ -1,0 +1,22 @@
+{
+  "name": "SwiftyDependency",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftyDependency.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yokenarov@icloud.com/SwiftyDependency",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yokenarov@icloud.com": "yokenarov@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/yokenarov@icloud.com/SwiftyDependency.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SwiftyDependency/Classes/**/*"
+}
